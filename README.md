@@ -6,7 +6,7 @@ To develop a smart movie recommendation system using machine learning that:
 - Suggests top 5 movies to a user based on past preferences.
 - Utilizes both collaborative and content-based filtering approaches.
 - Presents results through an interactive web interface.
-# 🛠 Tools & Technologies Used:
+#  Tools & Technologies Used:
 - Python
 - Pandas, NumPy
 - Scikit-learn
@@ -34,16 +34,19 @@ Built UI with Streamlit to show recommendations.
 Data preprocessing :
 
 https://1drv.ms/u/c/3727d7e9c6af1d86/EdMHsPsAj9dHq_qYnk5W_LQBd92Oj6YhWlqyTQBmNeGQng?e=45FTZI , 
+
 [Data Preprocessing output.pdf](https://github.com/user-attachments/files/21473514/Data.Preprocessing.output.pdf) 
 
 Content Based Recommendation :
 
 https://1drv.ms/u/c/3727d7e9c6af1d86/EUc6TlIlrrdDqSdSiKm1WlkBuScwRxo-CaaDqxNSJxUU_w?e=WnjIYk ,
+
 [Content Based Recommendation Output.pdf](https://github.com/user-attachments/files/21473607/Content.Based.Recommendation.Output.pdf) 
 
 Collaborative Filtering :
 
 https://1drv.ms/u/c/3727d7e9c6af1d86/EYssy2bTFLlDrwWf0-9b8GEBvvAzsGDjvqlQWgVWcTbsrg?e=gCSlgg  , 
+
 [Collaborative Filtering Output.pdf](https://github.com/user-attachments/files/21473748/Collaborative.Filtering.Output.pdf) 
 
 # Streamlit app.py file :
